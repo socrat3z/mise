@@ -1,5 +1,19 @@
 # Changelog
 
+## [2025.3.3](https://github.com/jdx/mise/compare/v2025.3.2..v2025.3.3) - 2025-03-11
+
+### 📚 Documentation
+
+- **(settings)** clarify the usage of disable_default_registry by [@gbloquel](https://github.com/gbloquel) in [#4589](https://github.com/jdx/mise/pull/4589)
+
+### Chore
+
+- deny fixes by [@jdx](https://github.com/jdx) in [17d7c6e](https://github.com/jdx/mise/commit/17d7c6ee5e035272a8dc1b93c8fc7ac9cffb7f80)
+
+### New Contributors
+
+- @gbloquel made their first contribution in [#4589](https://github.com/jdx/mise/pull/4589)
+
 ## [2025.3.1](https://github.com/jdx/mise/compare/v2025.3.0..v2025.3.1) - 2025-03-06
 
 ### 🚀 Features
